@@ -1,0 +1,10 @@
+
+.hero {
+  background: url("/images/ferrari-2.jpg") center / cover;
+}
+
+
+p {
+  font-size: 15px;
+  font-family: cursive;
+}
